@@ -44,7 +44,7 @@ Bu tam olarak insanların nasıl öğrendiğini de taklit eden bir yapay öğren
 
 Makine öğrenimi olmadan, varolan yapay zeka, “eğer x doğruysa, y yap, doğru değilse, z yap” gibi uzun listelerden geçmekle sınırlı olacaktır. Makine öğrenme, sunmuş olduğunuz veriler ve parametreler ile benzetimler yaparak, insandan daha iyi tespitlerde bulunan, programlamadıklarınızı da açığa çıkarabil en, kendi kendini eğitebilen sistemlerdir. Makine öğrenimi, insanların verideki kalıpları tanıması ve tahminler yapması için makineleri eğittiği yapay zekanın alt kümesidir.
 
-![resim-8.png](attachment:resim-8.png)
+![resim](https://user-images.githubusercontent.com/75934522/144872064-6276b85b-2b85-470e-b14f-0b27ecf9a63e.png)
 
 [Oxford](https://www.oxfordlearnersdictionaries.com/definition/english/machine-learning) Sözlüğü Makine Öğrenmesini şu şekilde tanımlar:
 
