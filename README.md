@@ -60,7 +60,7 @@ Derin öğrenme, temelde üç veya daha fazla katmana sahip bir sinir ağı olan
 Yapay Sinir Ağları (Neural Networks)
 
 Yapay sinir ağları tıpkı insan beyni gibi nöronlardan oluşur. Tüm nöronlar birbirine bağlıdır ve çıktıyı etkilemektedir.
-![resim-14.png](attachment:resim-14.png)
+![resim](https://user-images.githubusercontent.com/75934522/144872289-25de7c2e-c284-4cec-b0b1-1b157f01792e.png)
 
 Veri bilimcileri ve geliştiriciler, büyük ve karmaşık veri kümelerini analiz etmek, karmaşık ve doğrusal olmayan görevleri gerçekleştirmek ve metin, ses veya resimlere genellikle insanlardan daha hızlı ve daha doğru yanıt vermek için derin öğrenme yazılımları kullanır. Birçok pratik kullanım alanı olan bu özellikler, pek çok modern inovasyona olanak tanımıştır. Örneğin, sürücüsüz arabaların görüntüleri işleyip yayaları diğer nesnelerden ayırt etmesini ya da akıllı ev cihazlarınızın sesli komutlarınızı anlamasını sağlayan şey derin öğrenmedir.
 
@@ -78,4 +78,4 @@ Ardından, gradyan inişi ve geri yayılım süreçleri aracılığıyla, derin 
 
 Makine öğrenimi ve derin öğrenme modelleri, genellikle denetimli öğrenme, denetimsiz öğrenme ve pekiştirmeli öğrenme olarak kategorize edilen farklı öğrenme türlerine de sahiptir. Denetimli öğrenme, kategorize etmek veya tahminlerde bulunmak için etiketlenmiş veri kümelerini kullanır; bu, giriş verilerini doğru şekilde etiketlemek için bir tür insan müdahalesi gerektirir. Buna karşılık, denetimsiz öğrenme, etiketlenmiş veri kümeleri gerektirmez ve bunun yerine, verilerdeki kalıpları algılayarak bunları herhangi bir ayırt edici özellik ile kümeler. Takviyeli öğrenme, bir modelin, ödülü en üst düzeye çıkarmak için geri bildirime dayalı bir ortamda bir eylem gerçekleştirmek için daha doğru olmayı öğrendiği bir süreçtir.
 
-![resim-11.png](attachment:resim-11.png)
+![resim](https://user-images.githubusercontent.com/75934522/144872357-aa82c06c-060c-426b-bc4d-bfd0b62686a7.png)
